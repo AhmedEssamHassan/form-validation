@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+nav {
+  height: 70px;
+  width: 100%;
+  border: 1px solid red;
+}
+
+.item {
+  width: 300px;
+  height: 250px;
+  border: 1px solid red;
+  margin: 15px;
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  background-position: center;
+  align-items: flex-end;
+}
